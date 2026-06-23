@@ -1,0 +1,10 @@
+ALVE => Alveolata
+AMOE => Amoeba
+ARCH => Archaea
+EUGL => Euglenozoa
+FUNG => Fungi
+META => Metazoa
+OBAC => Other Bacteria
+OEUK => Other Eukaryota
+PROT => Proteobacteria
+VIRI => Viridiplantae
